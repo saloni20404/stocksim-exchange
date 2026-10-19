@@ -97,7 +97,4 @@ To reset all data, stop the backend and delete `backend/stockmarket.db`.
 - The order book in the UI is generated for display and is not built from real orders
 - SQLite data resets on redeploy on the free hosting tier
 
-## Credits
 
-<!-- Replace with the real source. Example: "Based on a project by <name/link>. I extended it with ..." -->
-Based on a project shared by <ORIGINAL AUTHOR / LINK>. My changes: <LIST YOUR CHANGES>.
